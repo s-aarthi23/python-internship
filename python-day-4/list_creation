@@ -1,0 +1,2 @@
+Movies=["Hi naana","Sita ramam","Shinchan","29"]
+print(Movies)

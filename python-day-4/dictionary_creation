@@ -1,0 +1,2 @@
+Dict={"Name":"Aarthi","Age":18,"Department":"B.tech cse"}
+print(Dict)

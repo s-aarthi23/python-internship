@@ -1,0 +1,2 @@
+Colors=("Red","Green","Pink")
+print(Colors)

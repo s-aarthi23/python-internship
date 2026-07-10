@@ -1,0 +1,17 @@
+Name=input("Enter your name:")
+Age=int(input("Enter your age:"))
+Dept=input("Enter your department:")
+CGPA=float(input("Enter your GPA:"))
+Subject1=input("Enter your first subject1:")
+Subject2=input("Enter your second subject2:")
+Subject3=input("Enter your third subject3:")
+print("Student Information System")
+Student={"Name":Name,"Age":Age,"Dept":Dept,"CGPA":CGPA,}
+Subjects=[Subject1,Subject2,Subject3]
+print("Name:",Student["Name"])
+print("Age:",Student["Age"])
+print("Dept:",Student["Dept"])
+print("CGPA:",Student["CGPA"])
+for Subject in Subjects:
+    print(Subject)
+
