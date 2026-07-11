@@ -1,0 +1,2 @@
+with open("notes.text","r") as file:
+   print(file.read())

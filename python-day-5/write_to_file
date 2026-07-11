@@ -1,0 +1,5 @@
+file=open("notes.text","w")
+file.write("Name:Aarthiswari\n")
+file.write("Department:CSE")
+file.close()
+print("Data written to file successfully!")

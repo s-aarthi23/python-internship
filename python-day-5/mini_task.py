@@ -1,0 +1,10 @@
+files=open("my_details.txt","w")
+files.write("Name:Aarthiswari\n")
+files.write("Department:CSE")
+files.write("\nCollege:Vels University")
+files.write("\nCGPA:9.08")
+files.close()
+files=open("my_details.txt","r")
+print(files.read())
+files.close()
+            

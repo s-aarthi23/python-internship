@@ -1,0 +1,3 @@
+Name:Aarthiswari
+day5 of python learning was completed successfully
+I have learned about file handling in python
