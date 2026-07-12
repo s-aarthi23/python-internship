@@ -5,7 +5,7 @@ This repository contains my daily Python practice programs and mini projects.
 ## Topics Covered
 
 ### Day 3
-- Functions
+- if,else,elif statements
 - Mini programs
 
 
