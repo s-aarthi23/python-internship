@@ -1,0 +1,6 @@
+f=open("file.txt","w")
+f.write("Aarthi")
+f.close()
+f=open("file.txt","r")
+print(f.read())
+f.close()

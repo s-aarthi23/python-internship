@@ -1,0 +1,7 @@
+f=open("file.txt","w")
+f.write("Aarthi\n")
+f.write("She want to become an independent woman\n")
+f.close()
+f=open("file.txt","r")
+print(f.read())
+f.close()
