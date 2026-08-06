@@ -1,0 +1,20 @@
+Day 20 - pip & Virtual Environment (venv)
+
+Topics Covered
+
+- Introduction to "pip"
+- Installing Python packages
+- Common pip commands ("install", "list", "show", "uninstall")
+- Virtual Environment ("venv")
+- Creating and activating a virtual environment
+- "requirements.txt" and "pip freeze"
+
+Key Learnings
+
+- "pip" is Python's package manager used to install external libraries.
+- A virtual environment creates an isolated Python environment for each project.
+- "requirements.txt" stores the list of project dependencies, making it easy to recreate the same environment on another system.
+
+Status
+
+✅ Day 20 Completed
